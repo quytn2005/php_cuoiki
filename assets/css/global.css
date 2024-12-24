@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Arbutus+Slab&family=Be+Vietnam+Pro&family=Hind+Siliguri:wght@400;500;600;700&family=Inter:wght@100;200;300;400&family=Quicksand:wght@300;400;500;600;700&family=Roboto:wght@400;700&display=swap');
+
+* {
+    font-family: 'Be Vietnam Pro', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 62.50%;
+}
+html{
+    font-size: 62.50%;
+}
+a {
+    text-decoration: none;
+}
+ul,li {
+    list-style: none;
+}
+img {
+    object-fit: cover;
+}
+:root {
+    --primary-color: #c8a165;
+    --primary-admin: #2a2185;
+    --secondary-color: #c87065;
+    --third-color: #FFFFFF;
+    --text-color: #666666;
+    --hover: #C8A165;
+    --box-shadow: 1px 25px 54px rgb(0 0 0 / 12%);
+    --bg-footer: #eee;
+    --bg-main:#F6F6F6;
+    --header-height: 97px;
+}
